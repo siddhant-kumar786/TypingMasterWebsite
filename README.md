@@ -1,0 +1,2 @@
+# TypingMasterWebsite
+IT IS A SIMPLE WEBSITE FOR TYPING TEST
